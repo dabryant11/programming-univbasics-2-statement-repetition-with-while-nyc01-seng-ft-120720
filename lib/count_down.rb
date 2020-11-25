@@ -7,4 +7,4 @@ while count >= 1 do
   puts count
 count -=1
 end
-when count == 1
+puts "Happy New Year!"
