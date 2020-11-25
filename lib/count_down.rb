@@ -8,3 +8,4 @@ count -=1
 end
 if count == 1
   puts "Happy New Year!"
+end
